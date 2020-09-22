@@ -1,0 +1,8 @@
+								
+	CODE_UPLOAD102419282000.zip	100%	42.27 kb	http://www.planet-source-code.com/upload/ftp/CODE_UPLOAD102419282000.zip	Completed	28/09/2000 - 14:35:25	28/09/2000 - 17:44:28	
+	Advanced_Sockets_Engine.zip	100%	96.23 kb	http://www.planet-source-code.com/upload/ftp/CODE_UPLOAD102429282000.zip	Completed	28/09/2000 - 16:54:34	28/09/2000 - 17:44:39	
+	Fmod_E.exe	0%	23.55 kb	ftp://ftp.ea.com/pub/ea/demos/nfs4/nfs4_cars/Fmod_E.exe	Error : Cancelled	28/09/2000 - 17:13:51		
+	Secure.zip	100%	42.27 kb	http://www.planet-source-code.com/upload/ftp/CODE_UPLOAD102419282000.zip	Completed	28/09/2000 - 17:43:43	29/09/2000 - 09:58:09	
+	lstm_e.exe		0.00 b	ftp://ftp.ea.com/pub/ea/demos/nfs4/nfs4_cars/lstm_e.exe	Error : Cancelled	29/09/2000 - 09:26:46		
+	ircplus.exe	11%	553.25 kb	http://www.tucows.saix.net/files4/ircplus.exe	Error : Cancelled	29/09/2000 - 09:30:29		
+
